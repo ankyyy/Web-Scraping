@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-#Author:Ankit kumar mishra
+#Author:Ankit Kumar Mishra
 #Date:2nd may 2015
 #Python script to extract movie info from imdb 
 #input: 1.genre of movie eg.action,animation
